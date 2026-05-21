@@ -141,7 +141,6 @@ The framework is structured to support realistic trading system development work
 ### Core Technologies
 
 - Python
-- C++
 - asyncio
 - Redis
 - ib_insync / IBKR API
@@ -164,13 +163,10 @@ The framework is structured to support realistic trading system development work
 
 ### Included Examples
 
-- Futures spread execution
+- Futures execution
 - Statistical arbitrage workflows
 - Replay-driven backtesting
 - Async execution pipelines
-- Portfolio risk monitoring
-- Event replay simulation
-
 ---
 
 ## Deployment Structure
